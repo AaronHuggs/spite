@@ -1,0 +1,13 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+#game-container {
+    margin: 20px;
+}
+#player-hand, #discard-piles, #draw-pile {
+    margin: 10px;
+}
